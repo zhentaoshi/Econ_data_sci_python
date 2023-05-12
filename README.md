@@ -20,7 +20,7 @@ Programming experience is helpful, but not prerequisite.
 ## Environments
 
 * [CUHK SCRP](https://scrp-login.econ.cuhk.edu.hk/jupyter/hub/login?next=%2Fjupyter%2Fhub%2F)
-* [Gitpod](https://gitpod.io/#https://github.com/zhentaoshi/Econ_data_sci_python) based on [docker](https://hub.docker.com/r/ztshi/econ_data_sci/tags) provides a cloud-based collaborative virtual machine.
+* [Gitpod](https://gitpod.io/#https://github.com/zhentaoshi/Econ_data_sci_python) based on [docker](https://hub.docker.com/r/ztshi/ml/tags) provides a cloud-based collaborative virtual machine.
 
 ## License
 
